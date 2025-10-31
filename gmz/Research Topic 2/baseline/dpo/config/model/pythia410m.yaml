@@ -1,0 +1,10 @@
+_target_: transformers.AutoModelForCausalLM.from_pretrained
+name_or_path: EleutherAI/pythia-410m
+torch_dtype: bfloat16
+policy_dtype: bfloat16
+reference_dtype: bfloat16
+low_cpu_mem_usage: true
+gradient_checkpointing: true
+use_cache: false
+archive: null
+tokenizer_name_or_path: EleutherAI/pythia-410m
