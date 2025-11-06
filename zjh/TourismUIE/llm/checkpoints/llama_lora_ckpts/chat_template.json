@@ -1,8 +1,0 @@
-{
-    "conversation": [
-        "[INST] {{user}} [/INST]",
-        "{{bot}}</s>"
-    ],
-    "system": "<s>[INST] <<SYS>>\nYou are a helpful assistant.\n<</SYS>>",
-    "query": "[INST] {{query}} [/INST]"
-}
