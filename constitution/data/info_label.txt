@@ -1,0 +1,12 @@
+constitution
+0,平和
+1,气虚
+2,湿热
+3,痰湿
+4,阳虚
+5,阴虚
+6,气郁
+
+sex
+0：male
+1：female
