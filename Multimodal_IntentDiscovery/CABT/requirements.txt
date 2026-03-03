@@ -1,0 +1,9 @@
+easydict==1.9
+numpy==1.19.5
+pandas==1.4.3
+scikit_learn==0.24.1
+scipy==1.8.1
+sentence_transformers==2.2.2
+# torch==1.8.1+cu111
+tqdm==4.64.0
+transformers==4.20.1
