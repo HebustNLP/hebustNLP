@@ -7,7 +7,7 @@
 用于配置参数和模型等
 ## 算法实现
 算法主体位于：  
-`methods/unsupervised/srbs`
+`methods/semi_supervised/SRBS`
 ### 方法文件夹
 `methods`文件夹包含以下内容：  
 + srbs算法
